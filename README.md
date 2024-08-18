@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer Specialized in Full Stack Development; ReactJS, React Native, NodeJS, Digital Marketing and Data Science</h3>
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=mosessofteng&label=Profile%20views&color=0e75b6&style=flat" alt="mosessofteng" /> 
+    <img src="https://komarev.com/ghpvc/?username=Yareda21&label=Profile%20views&color=0e75b6&style=flat" alt="Yared kebede" /> 
 </p>
 
 <p align="left"> 
