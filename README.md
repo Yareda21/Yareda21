@@ -1,47 +1,133 @@
-# Hello, World! 👋
+<h1 align="center">Hi 👋, I'm Yared Kebede</h1>
+<h3 align="center">Software Engineer Specialized in Full Stack Development; ReactJS, React Native, NodeJS, Digital Marketing and Data Science</h3>
 
-I'm Yared Kebede, a passionate software engineer with a love for coding and building things that matter. Welcome to my GitHub profile!
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=mosessofteng&label=Profile%20views&color=0e75b6&style=flat" alt="mosessofteng" /> 
+</p>
 
-## 🔧 Technologies & Tools
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=mosessofteng" alt="mosessofteng" />
+    </a> 
+</p>
 
-- **Languages:** JavaScript, Python, C
-- **Frontend:** React, HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express, Django, Next.js
-- **Databases:** MongoDB, MySQL
-- **Other:** Git, RESTful APIs, GraphQL
+<p align="left"> 
+    <a href="https://twitter.com/mosessofteng" target="blank">
+        <img src="https://img.shields.io/twitter/follow/mosessofteng?logo=twitter&style=for-the-badge" alt="mosessofteng" />
+    </a> 
+</p>
 
-## 🚀 Projects
+-   🔭 I’m currently working on [Full Stack Web and Mobile Apps](https://github.com/msoften/webast-chrome-extension/tree/f8844de7e27dd844f6cf10bc58dfc683e40e9d28)
 
-### Project 1: Restaurant Website ([link-to-project-1](https://yars21.github.io/restaurant/))
-Get food from your favorite restaurants in Addis delivered to your home or office. Want to eat out but do not want to go
-out? Check out restaurants near you and order exactly what you are looking for.
+-   🌱 I’m currently learning **AWS Cloud Developer, Automation & ML**
 
-### Project 2: School Website ([link-to-project-2](https://yars21.github.io/school/))
-This is an Educational Website for a college or a University it has all courses.
+-   👯 I’m looking to collaborate on **Making a mobile application**
 
+-   🤝 I’m looking for help with **Creating a multiplayer game in unity**
 
-## 🌱 I’m currently learning
+-   💬 Ask me about **React, Node, Digital Marketing**
 
-- [Next.js]
-- [Cloud]
+-   📫 How to reach me **[My Portfolio](https://yared21.netlify.app)**
 
-## 👯 I’m looking to collaborate on
+### Blogs posts
 
-I'm open to collaboration on projects that include both frontend and backend. If you have an exciting project or idea, let's connect!
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## 📫 How to reach me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/mosessofteng" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mosessofteng" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/mosessofteng" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mosessofteng" height="30" width="40" />
+    </a>
+    <a href="https://stackoverflow.com/users/mosessofteng" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mosessofteng" height="30" width="40" />
+    </a>
+    <a href="https://fb.com/mosessofteng" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mosessofteng" height="30" width="40" />
+    </a>
+    <a href="https://medium.com/@mosessofteng" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mosessofteng" height="30" width="40" />
+    </a>
+    <a href="https://www.hackerrank.com/mosessofteng" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mosessofteng" height="30" width="40" />
+    </a>
+    <a href="https://www.leetcode.com/mosessofteng" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mosessofteng" height="30" width="40" />
+    </a>
+</p>
 
-- LinkedIn: https://www.linkedin.com/in/yared-kebede/
-- Email: ykebede39@yahoo.com
-- Website: https://yared21.netlify.app/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+    </a> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    </a> 
+    <a href="https://circleci.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+    </a>
+    <a href="https://mochajs.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    </a>
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+    </a>
+</p>
 
-## 💬 Let's connect
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosessofteng&show_icons=true&locale=en&layout=compact" alt="mosessofteng" />
+</p>
 
-Feel free to reach out if you want to discuss technology, share ideas, or just chat about coding. I'm always open to learning and collaborating with fellow developers!
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mosessofteng&show_icons=true&locale=en" alt="mosessofteng" />
+</p>
 
-Happy coding! 🚀
-
-<!---
-Yareda21/Yareda21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosessofteng&" alt="mosessofteng" />
+</p>
