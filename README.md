@@ -32,7 +32,7 @@
     <a href="mailto:ykebed40@gmail.com" target="blank">
         <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" alt="Email">
     </a>
-    <pre> </pre>
+    <span> ---- </span>
     <!-- TODO: Add your calendar scheduling link -->
     <a href="https://calendly.com/ykebed40/30min" target="blank">
         <img src="https://img.shields.io/badge/Schedule-Meeting-green?logo=calendar&style=for-the-badge" alt="Schedule Meeting">
