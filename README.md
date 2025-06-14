@@ -50,26 +50,30 @@
 
 <!-- Featured Projects -->
 ### <h3 align="left">🌟 Featured Projects</h3>
-
-- **[Yared Coding School](https://yared-coding.vercel.app/)**  
-  <img src="https://yared-coding.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ede98691.png&w=96&q=75" alt="Yared Coding School" width="100"/>
-
-- **[Infinity Realestate App](https://realestate-yars.vercel.app/)**  
-  <img src="https://yared21.netlify.app/favicon.ico" alt="Infinity Realestate App" width="100"/>
-
-<p align="center">
-    <!-- TODO: Add your featured projects with descriptions and links -->
-    <a href="https://yared-coding.vercel.app/">
-        <h3>Yared Coding School</h3>
-        <img src="https://yared-coding.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ede98691.png&w=96&q=75" alt="Project 1" width="100"/>
-    </a>
-    <span> ---- </span>
-    <a href="https://realestate-yars.vercel.app/">
-        <h3>Infinity Realestate App</h3>
-        <img src="https://yared21.netlify.app/favicon.ico" alt="Project 2" width="100"/>
-    </a>
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://yared-coding.vercel.app/">
+        <img
+          src="https://yared-coding.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ede98691.png&w=96&q=75"
+          alt="Yared Coding School"
+          width="100"
+        /><br/>
+        <strong>Yared Coding School</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://realestate-yars.vercel.app/">
+        <img
+          src="https://yared21.netlify.app/favicon.ico"
+          alt="Infinity Realestate App"
+          width="100"
+        /><br/>
+        <strong>Infinity Realestate App</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- Skills Section -->
 <h2 align="left">🛠️ Skills & Expertise</h2>
 
