@@ -3,7 +3,7 @@
 
 <p align="center">
     <!-- TODO: Add your professional headshot here -->
-    <img src="https://res.cloudinary.com/dlomcic7f/image/upload/v1749927347/me/My_pic_xsnljz.jpg" alt="Yared Kebede" width="100" height="100" style="border-radius: 50%;"/>
+    <img src="https://res.cloudinary.com/dlomcic7f/image/upload/c_crop,w_720,h_720,ar_1:1/v1749927347/me/My_pic_xsnljz.jpg" alt="Yared Kebede" width="100" height="100" style="border-radius: 50%;"/>
 </p>
 
 <p align="center"> 
