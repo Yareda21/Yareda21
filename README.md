@@ -27,7 +27,7 @@
     <a href="https://www.linkedin.com/in/yared-kebede/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
     </a>
-    <pre> </pre>
+    <span> ---- </span>
     <!-- TODO: Add your email contact button -->
     <a href="mailto:ykebed40@gmail.com" target="blank">
         <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" alt="Email">
@@ -53,10 +53,12 @@
 <p align="center">
     <!-- TODO: Add your featured projects with descriptions and links -->
     <a href="https://yared-coding.vercel.app/">
+        <h4>Yared Coding School</h4>
         <img src="https://yared-coding.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ede98691.png&w=96&q=75" alt="Project 1" width="100"/>
     </a>
-    <pre> </pre>
+    <pre></pre>
     <a href="https://realestate-yars.vercel.app/">
+        <h4>Infinity Realestate App</h4>
         <img src="https://yared21.netlify.app/favicon.ico" alt="Project 2" width="100"/>
     </a>
 </p>
