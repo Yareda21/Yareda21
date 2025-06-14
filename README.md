@@ -23,7 +23,7 @@
 </p>
 
 <!-- Contact & Social Links -->
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.linkedin.com/in/yared-kebede/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
     </a>
@@ -53,12 +53,12 @@
 <p align="center">
     <!-- TODO: Add your featured projects with descriptions and links -->
     <a href="https://yared-coding.vercel.app/">
-        <h4>Yared Coding School</h4>
+        <span>Yared Coding School</span>
         <img src="https://yared-coding.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ede98691.png&w=96&q=75" alt="Project 1" width="100"/>
     </a>
-    <pre></pre>
+    <span> ---- </span>
     <a href="https://realestate-yars.vercel.app/">
-        <h4>Infinity Realestate App</h4>
+        <span>Infinity Realestate App</span>
         <img src="https://yared21.netlify.app/favicon.ico" alt="Project 2" width="100"/>
     </a>
 </p>
