@@ -173,12 +173,7 @@
 </table>
 
 <!-- Blog Posts -->
-<h3 align="left">📝 Recent Blog Posts</h3>
-<p align="left">
-    <!-- TODO: Add your recent blog posts -->
-    <a href="[BLOG_POST_1_LINK]">[BLOG_POST_1_TITLE]</a><br/>
-    <a href="[BLOG_POST_2_LINK]">[BLOG_POST_2_TITLE]</a>
-</p>
+
 
 <!-- GitHub Stats -->
 <p>
