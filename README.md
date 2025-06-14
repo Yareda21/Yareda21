@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=Yareda21&label=Profile%20views&color=0e75b6&style=flat&theme=juicyfresh" alt="Yareda21" /> 
 </p>
 
-<p align="center"> 
+<p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=Yareda21" alt="Yareda21" />
     </a> 
@@ -17,14 +17,9 @@
     </a>
 
 </p>
-<p align="left"> 
-    <a href="[https://www.linkedin.com/in/yared-kebede/](https://yared-coding.vercel.app/)" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="My School">
-    </a>
 
-</p>
 
--   🔭 I’m currently working on [Full Stack Web and Mobile Apps](https://yared21.netlify.app)
+-   🔭 I’m currently working on [Full Stack Web and Mobile Apps](https://yared-coding.vercel.app/)
 
 -   🌱 I’m currently learning **AWS Cloud Developer, Automation & ML**
 
@@ -36,15 +31,14 @@
 
 -   📫 How to reach me **[My Portfolio](https://yared21.netlify.app)**
 
-### Blogs posts
+### My Online School
+[Yared Coding School](https://yared-coding.vercel.app/)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"  style="display: flex; justify-content: space-between; align-items: center;">
+<p align="left"  style="display: flex; justify-content: space-between; align-items: center; width:500px">
     <a href="https://yared21.netlify.app" target="blank">
-        <img align="center" src="" alt="Yareda21" height="30" width="40" />
+        <img align="center" src="https://yared21.netlify.app/favicon.ico" alt="Yareda21" height="30" width="40" />
     </a>
     <a href="https://stackoverflow.com/users/22812130/yared-kebede" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Yareda21" height="30" width="40" />
