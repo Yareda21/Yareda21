@@ -49,7 +49,14 @@
 </ul>
 
 <!-- Featured Projects -->
-<h3 align="left">🌟 Featured Projects</h3>
+### <h3 align="left">🌟 Featured Projects</h3>
+
+- **[Yared Coding School](https://yared-coding.vercel.app/)**  
+  <img src="https://yared-coding.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ede98691.png&w=96&q=75" alt="Yared Coding School" width="100"/>
+
+- **[Infinity Realestate App](https://realestate-yars.vercel.app/)**  
+  <img src="https://yared21.netlify.app/favicon.ico" alt="Infinity Realestate App" width="100"/>
+
 <p align="center">
     <!-- TODO: Add your featured projects with descriptions and links -->
     <a href="https://yared-coding.vercel.app/">
