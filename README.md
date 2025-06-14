@@ -27,12 +27,12 @@
     <a href="https://www.linkedin.com/in/yared-kebede/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
     </a>
-    <pre>          </pre>
+    <pre> </pre>
     <!-- TODO: Add your email contact button -->
     <a href="mailto:ykebed40@gmail.com" target="blank">
         <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" alt="Email">
     </a>
-    <pre>          </pre>
+    <pre> </pre>
     <!-- TODO: Add your calendar scheduling link -->
     <a href="https://calendly.com/ykebed40/30min" target="blank">
         <img src="https://img.shields.io/badge/Schedule-Meeting-green?logo=calendar&style=for-the-badge" alt="Schedule Meeting">
@@ -50,13 +50,14 @@
 
 <!-- Featured Projects -->
 <h3 align="left">🌟 Featured Projects</h3>
-<p align="left">
+<p align="center">
     <!-- TODO: Add your featured projects with descriptions and links -->
     <a href="https://yared-coding.vercel.app/">
-        <img src="https://yared-coding.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ede98691.png&w=96&q=75" alt="Project 1" width="150"/>
+        <img src="https://yared-coding.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ede98691.png&w=96&q=75" alt="Project 1" width="100"/>
     </a>
+    <pre> </pre>
     <a href="https://realestate-yars.vercel.app/">
-        <img src="https://yared21.netlify.app/favicon.ico" alt="Project 2" width="150"/>
+        <img src="https://yared21.netlify.app/favicon.ico" alt="Project 2" width="100"/>
     </a>
 </p>
 
