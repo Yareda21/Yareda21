@@ -53,20 +53,20 @@
 <p align="center">
     <!-- TODO: Add your featured projects with descriptions and links -->
     <a href="https://yared-coding.vercel.app/">
-        <span>Yared Coding School</span>
+        <h3>Yared Coding School</h3>
         <img src="https://yared-coding.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ede98691.png&w=96&q=75" alt="Project 1" width="100"/>
     </a>
     <span> ---- </span>
     <a href="https://realestate-yars.vercel.app/">
-        <span>Infinity Realestate App</span>
+        <h3>Infinity Realestate App</h3>
         <img src="https://yared21.netlify.app/favicon.ico" alt="Project 2" width="100"/>
     </a>
 </p>
 
 <!-- Skills Section -->
-<h3 align="left">🛠️ Skills & Expertise</h3>
+<h2 align="left">🛠️ Skills & Expertise</h2>
 
-<h4>Frontend Development</h4>
+<h3>Frontend Development</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -74,7 +74,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </p>
 
-<h4>Backend Development</h4>
+<h3>Backend Development</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
