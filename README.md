@@ -79,8 +79,7 @@
 
 <h3>Frontend Development</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <span>__</span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><span>__</span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><span>__</span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><span>__</span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><span>__</span>
@@ -128,21 +127,13 @@
 
 <!-- Certifications -->
 <h3 align="left">📜 Certifications</h3>
-<p align="left">
-    <!-- TODO: Add your certifications with badges -->
-    <img src="https://res.cloudinary.com/dlomcic7f/image/upload/v1729169513/fu%20project%20data/harvard_g4auuj.png" alt="Harvard CS50" width="100"/>
-    <img src="https://res.cloudinary.com/dlomcic7f/image/upload/v1748028585/AiCE_Certificate_x72sso.png" alt="AiCE" width="100"/>
-    <img src="https://res.cloudinary.com/dlomcic7f/image/upload/v1732112628/personal/ALX_final_Certificate_gl0pzi.png" alt="ALX SE" width="100"/>
-    <img src="https://res.cloudinary.com/dlomcic7f/image/upload/v1729169513/fu%20project%20data/Prog_klnuxf.png" alt="Udacity Programing" width="100"/>
-    <img src="https://res.cloudinary.com/dlomcic7f/image/upload/v1729169512/fu%20project%20data/DA_bpsvme.png" alt="Udacity Data Analysis" width="100"/>
-</p>
 <table>
   <tr>
     <td align="center">
       <img
         src="https://res.cloudinary.com/dlomcic7f/image/upload/v1729169513/fu%20project%20data/harvard_g4auuj.png"
         alt="Harvard CS50"
-        width="100"
+        width="150"
       /><br/>
       <strong>Harvard CS50</strong>
     </td>
@@ -150,31 +141,31 @@
       <img
         src="https://res.cloudinary.com/dlomcic7f/image/upload/v1748028585/AiCE_Certificate_x72sso.png"
         alt="AiCE"
-        width="100"
+        width="150"
       /><br/>
       <strong>AiCE</strong>
     </td>
     <td align="center">
       <img
-        src="https://res.cloudinary.com/dlomcic7f/image/upload/v1732112628/personal/ALX_final_Certificate_gl0pzi.png"
-        alt="ALX SE"
-        width="100"
-      /><br/>
-      <strong>ALX Software Engineering</strong>
-    </td>
-    <td align="center">
-      <img
         src="https://res.cloudinary.com/dlomcic7f/image/upload/v1729169513/fu%20project%20data/Prog_klnuxf.png"
         alt="Udacity Programming"
-        width="100"
+        width="150"
       /><br/>
       <strong>Udacity Programming</strong>
     </td>
     <td align="center">
       <img
+        src="https://res.cloudinary.com/dlomcic7f/image/upload/v1732112628/personal/ALX_final_Certificate_gl0pzi.png"
+        alt="ALX SE"
+        width="150"
+      /><br/>
+      <strong>ALX Software Engineering</strong>
+    </td>
+    <td align="center">
+      <img
         src="https://res.cloudinary.com/dlomcic7f/image/upload/v1729169512/fu%20project%20data/DA_bpsvme.png"
         alt="Udacity Data Analysis"
-        width="100"
+        width="150"
       /><br/>
       <strong>Udacity Data Analysis</strong>
     </td>
