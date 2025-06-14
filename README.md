@@ -27,12 +27,12 @@
     <a href="https://www.linkedin.com/in/yared-kebede/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
     </a>
-    <span> ---- </span>
+    <span>________</span>
     <!-- TODO: Add your email contact button -->
     <a href="mailto:ykebed40@gmail.com" target="blank">
         <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" alt="Email">
     </a>
-    <span> ---- </span>
+    <span>________</span>
     <!-- TODO: Add your calendar scheduling link -->
     <a href="https://calendly.com/ykebed40/30min" target="blank">
         <img src="https://img.shields.io/badge/Schedule-Meeting-green?logo=calendar&style=for-the-badge" alt="Schedule Meeting">
@@ -130,9 +130,56 @@
 <h3 align="left">📜 Certifications</h3>
 <p align="left">
     <!-- TODO: Add your certifications with badges -->
-    <img src="https://res.cloudinary.com/dlomcic7f/image/upload/v1748028585/AiCE_Certificate_x72sso.png" alt="Certification 1" width="100"/>
-    <img src="[CERTIFICATION_2_BADGE]" alt="Certification 2" width="100"/>
+    <img src="https://res.cloudinary.com/dlomcic7f/image/upload/v1729169513/fu%20project%20data/harvard_g4auuj.png" alt="Harvard CS50" width="100"/>
+    <img src="https://res.cloudinary.com/dlomcic7f/image/upload/v1748028585/AiCE_Certificate_x72sso.png" alt="AiCE" width="100"/>
+    <img src="https://res.cloudinary.com/dlomcic7f/image/upload/v1732112628/personal/ALX_final_Certificate_gl0pzi.png" alt="ALX SE" width="100"/>
+    <img src="https://res.cloudinary.com/dlomcic7f/image/upload/v1729169513/fu%20project%20data/Prog_klnuxf.png" alt="Udacity Programing" width="100"/>
+    <img src="https://res.cloudinary.com/dlomcic7f/image/upload/v1729169512/fu%20project%20data/DA_bpsvme.png" alt="Udacity Data Analysis" width="100"/>
 </p>
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://res.cloudinary.com/dlomcic7f/image/upload/v1729169513/fu%20project%20data/harvard_g4auuj.png"
+        alt="Harvard CS50"
+        width="100"
+      /><br/>
+      <strong>Harvard CS50</strong>
+    </td>
+    <td align="center">
+      <img
+        src="https://res.cloudinary.com/dlomcic7f/image/upload/v1748028585/AiCE_Certificate_x72sso.png"
+        alt="AiCE"
+        width="100"
+      /><br/>
+      <strong>AiCE</strong>
+    </td>
+    <td align="center">
+      <img
+        src="https://res.cloudinary.com/dlomcic7f/image/upload/v1732112628/personal/ALX_final_Certificate_gl0pzi.png"
+        alt="ALX SE"
+        width="100"
+      /><br/>
+      <strong>ALX Software Engineering</strong>
+    </td>
+    <td align="center">
+      <img
+        src="https://res.cloudinary.com/dlomcic7f/image/upload/v1729169513/fu%20project%20data/Prog_klnuxf.png"
+        alt="Udacity Programming"
+        width="100"
+      /><br/>
+      <strong>Udacity Programming</strong>
+    </td>
+    <td align="center">
+      <img
+        src="https://res.cloudinary.com/dlomcic7f/image/upload/v1729169512/fu%20project%20data/DA_bpsvme.png"
+        alt="Udacity Data Analysis"
+        width="100"
+      /><br/>
+      <strong>Udacity Data Analysis</strong>
+    </td>
+  </tr>
+</table>
 
 <!-- Blog Posts -->
 <h3 align="left">📝 Recent Blog Posts</h3>
