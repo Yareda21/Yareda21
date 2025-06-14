@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=Yareda21&label=Profile%20views&color=0e75b6&style=flat&theme=juicyfresh" alt="Yareda21" /> 
 </p>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=Yareda21" alt="Yareda21" />
     </a> 
@@ -14,6 +14,12 @@
 <p align="left"> 
     <a href="https://www.linkedin.com/in/yared-kebede/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+    </a>
+
+</p>
+<p align="left"> 
+    <a href="[https://www.linkedin.com/in/yared-kebede/](https://yared-coding.vercel.app/)" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="My School">
     </a>
 
 </p>
