@@ -55,7 +55,7 @@
     <td align="center">
       <a href="https://www.yared-coding.com.et/">
         <img
-          src="https://www.yared-coding.com.et/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ede98691.png&w=96&q=75"
+          src="https://res.cloudinary.com/dlomcic7f/image/upload/v1760518779/logo_d2e0fw.png"
           alt="Yared Coding School"
           width="100"
         /><br/>
