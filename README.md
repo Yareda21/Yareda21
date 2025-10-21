@@ -42,7 +42,7 @@
 <!-- Current Work & Learning -->
 <h3 align="left">🚀 Current Focus</h3>
 <ul>
-    <li>🔭 Working on [Full Stack Web and Mobile Apps](https://yared-coding.vercel.app/)</li>
+    <li>🔭 Working on [Full Stack Web and Mobile Apps](https://www.yared-coding.com.et/)</li>
     <li>🌱 Learning <strong>AWS Cloud Developer, Automation & ML</strong></li>
     <li>👯 Looking to collaborate on <strong>Making a mobile application</strong></li>
     <li>🤝 Seeking help with <strong>Creating a multiplayer game in unity</strong></li>
@@ -53,9 +53,9 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://yared-coding.vercel.app/">
+      <a href="https://www.yared-coding.com.et/">
         <img
-          src="https://yared-coding.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ede98691.png&w=96&q=75"
+          src="https://www.yared-coding.com.et/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.ede98691.png&w=96&q=75"
           alt="Yared Coding School"
           width="100"
         /><br/>
