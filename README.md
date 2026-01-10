@@ -177,20 +177,6 @@
 
 <!-- Blog Posts -->
 
-
-<!-- GitHub Stats -->
-<!-- GitHub Stats -->
-<p align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yareda21&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yareda21&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Yareda21)
-
-</p>
-
-
 <!-- Contribution Graph -->
 <p>
     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Yareda21&theme=react-dark" alt="Yareda21" />
