@@ -16,7 +16,14 @@
     Focused on creating efficient, user-friendly solutions that solve real-world problems.</em>
 </p>
 
-[![trophies](https://github-trophies.vercel.app/?username=Yareda21)](https://github.com/lucthienphong1120/github-trophies)
+<p align="center">
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img 
+      src="https://github-trophies.vercel.app/?username=Yareda21&theme=dark_lover&margin-w=15&margin-h=15" 
+      alt="Yareda21 GitHub Trophies" 
+    />
+  </a>
+</p>
 
 <!-- Contact & Social Links -->
 <p align="center"> 
