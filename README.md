@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://github.com/lucthienphong1120/github-trophies">
     <img 
-      src="https://github-trophies.vercel.app/?username=Yareda21&theme=dark_lover&margin-w=15&margin-h=15" 
+      src="https://github-trophies.vercel.app/?username=Yareda21&theme=nord&margin-w=15&margin-h=15" 
       alt="Yareda21 GitHub Trophies" 
     />
   </a>
