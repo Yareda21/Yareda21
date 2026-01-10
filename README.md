@@ -16,11 +16,7 @@
     Focused on creating efficient, user-friendly solutions that solve real-world problems.</em>
 </p>
 
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Yareda21" alt="Yareda21" />
-    </a> 
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yareda21)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Contact & Social Links -->
 <p align="center"> 
