@@ -179,23 +179,17 @@
 
 
 <!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Yareda21&layout=compact&show_icons=true&locale=en"
-    alt="Top Languages"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Yareda21&show_icons=true&locale=en"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Yareda21"
-    alt="GitHub Streak"
-    height="165"
-  />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yareda21&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yareda21&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yareda21)
+
 </p>
+
 
 <!-- Contribution Graph -->
 <p>
