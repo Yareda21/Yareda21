@@ -58,10 +58,10 @@
 
 <h3 align="left">✨ Recent Highlights (2024–2026)</h3>
 <ul>
-  <li>Built an AI tutor prototype using GPT-4 + Pinecone for embeddings, integrated into the school website (Supabase backend, hosted on Google Cloud).</li>
-  <li>Designed and shipped a mobile app skeleton for Yared Coding School — course catalogs, registration flows, and offline-friendly content.</li>
-  <li>Ongoing: Optimizing Expert Advisors (MT5) for trading strategies and building backend tooling for automated strategy evaluation.</li>
-  <li>Maintaining and teaching courses in web development, data analysis, and digital marketing to short-term training cohorts.</li>
+  <li>🤖 Built an AI tutor prototype using <strong>GPT-4 + Pinecone</strong> for embeddings, integrated into the school website (Supabase backend, hosted on Google Cloud).</li>
+  <li>📱 Designed and shipped a <strong>mobile app skeleton</strong> for Yared Coding School — course catalogs, registration flows, and offline-friendly content.</li>
+  <li>📈 Ongoing: Optimizing Expert Advisors (MT5) for <strong>trading strategies</strong> and <strong>building backend tooling</strong> for automated strategy evaluation.</li>
+  <li>🎓 Maintaining and teaching courses in <strong>web development, data analysis, and digital marketing</strong> to short-term training cohorts.</li>
 </ul>
 
 <!-- Featured Projects -->
@@ -134,7 +134,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/><span>__</span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/><span>__</span>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/><span>__</span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/><span>__</span>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/><span>__</span>
 </p>
 
 <h4 align="center">Tools & Technologies</h4>
@@ -147,10 +147,10 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/><span>__</span>
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/><span>__</span>
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/><span>__</span>
-  <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="cloudinary" width="40" height="40"/><span>__</span>
-  <img src="https://www.vectorlogo.zone/logos/github_actions/github_actions-icon.svg" alt="github-actions" width="40" height="40"/><span>__</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudinary/cloudinary-original.svg" alt="cloudinary" width="40" height="40"/><span>__</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40"/><span>__</span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 </p>
 
 <!-- Certifications -->
@@ -216,12 +216,6 @@
   <li>Check pinned repositories for project code and templates.</li>
   <li>Open an issue or start a discussion in the repo you want to contribute to.</li>
   <li>Prefer short proposals (one paragraph + expected outcome) for freelance or collaboration requests.</li>
-</ul>
-
-<h3 align="left">🔧 Maintainer notes</h3>
-<ul>
-  <li>Use GitHub Actions to keep the README badges and activity graphs up to date.</li>
-  <li>Pin the most representative repos: AI tutor prototype, mobile app skeleton, and the banking app project.</li>
 </ul>
 
 <hr/>
