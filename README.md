@@ -71,7 +71,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.yared-coding.com.et/">
+      <a href="https://www.yared-coding.com.et/" targer="_blank">
         <img
           src="https://res.cloudinary.com/dlomcic7f/image/upload/v1760518779/logo_d2e0fw.png"
           alt="Yared Coding School"
@@ -81,7 +81,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://arke-group.com/">
+      <a href="https://arke-group.com/" targer="_blank">
         <img
           src="https://res.cloudinary.com/dlomcic7f/image/upload/v1780518834/arkelogo_ej5g59.png"
           alt="Arke Group"
@@ -91,7 +91,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://realestate-yars.vercel.app/">
+      <a href="https://realestate-yars.vercel.app/" targer="_blank">
         <img
           src="https://yared21.netlify.app/favicon.ico"
           alt="Infinity Realestate App"
