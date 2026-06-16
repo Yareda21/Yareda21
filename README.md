@@ -81,6 +81,16 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://arke-group.com/">
+        <img
+          src="https://yared21.netlify.app/favicon.ico](https://res.cloudinary.com/dlomcic7f/image/upload/v1780518834/arkelogo_ej5g59.png"
+          alt="Arke Group"
+          width="100"
+        /><br/>
+        <strong>Arke Digital Learning Group</strong>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://realestate-yars.vercel.app/">
         <img
           src="https://yared21.netlify.app/favicon.ico"
