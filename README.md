@@ -100,6 +100,16 @@
         <strong>Infinity Realestate App</strong>
       </a>
     </td>
+       <td align="center">
+      <a href="https://www.ethiodigitals.com.et" target="_blank">
+        <img
+          src="https://www.ethiodigitals.com.et/image/logo.png"
+          alt="Ethio Digitals Intelligence"
+          width="100"
+        /><br/>
+        <strong>Ethio Digitals Intelligence System</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
