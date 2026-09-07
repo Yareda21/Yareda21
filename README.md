@@ -91,23 +91,24 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://realestate-yars.vercel.app/" target="_blank">
-        <img
-          src="https://yared21.netlify.app/favicon.ico"
-          alt="Infinity Realestate App"
-          width="100"
-        /><br/>
-        <strong>Infinity Realestate App</strong>
-      </a>
-    </td>
-       <td align="center">
-      <a href="https://www.ethiodigitals.com.et" target="_blank">
+      <a href="https://www.ethiodigitals.com.et/images/ED%20Logo.png" target="_blank">
         <img
           src="https://www.ethiodigitals.com.et/image/logo.png"
           alt="Ethio Digitals Intelligence"
           width="100"
         /><br/>
         <strong>Ethio Digitals Intelligence System</strong>
+      </a>
+    </td>
+       </td>
+       <td align="center">
+      <a href="https://www.aynemarketing.com.et/logo.jpg" target="_blank">
+        <img
+          src="https://www.aynemarketing.com.et/logo.jpg"
+          alt="Ayne Digital Marketing"
+          width="100"
+        /><br/>
+        <strongAyne Digital Marketing</strong>
       </a>
     </td>
   </tr>
